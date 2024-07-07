@@ -1,0 +1,26 @@
+{
+  "name": "@anush008/bm42-linux-x64-gnu",
+  "version": "0.0.7",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "bm42.linux-x64-gnu.node",
+  "files": [
+    "bm42.linux-x64-gnu.node"
+  ],
+  "description": "TS/JS implementation of Qdrant BM42",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anush008/bm42-js"
+  },
+  "libc": [
+    "glibc"
+  ]
+}
