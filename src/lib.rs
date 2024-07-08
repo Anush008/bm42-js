@@ -25,7 +25,7 @@ pub struct JsBM42Options {
 
 #[napi(object)]
 pub struct JsSparseEmbedding {
-  pub indices: Vec<u32>,
+  pub indices: Vec<i32>,
   pub values: Vec<f64>,
 }
 
