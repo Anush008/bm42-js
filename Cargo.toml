@@ -8,9 +8,9 @@ crate-type = ["cdylib"]
 
 [dependencies]
 bm42 = "=0.0.0-alpha-rc.7"
-openssl = { version = "=0.10.64", features = ["vendored"] }  # CI fails for Windows without this
-napi = { version = "2.12.2", default-features = false, features = ["napi4"] }
-napi-derive = "2.12.2"
+openssl = { version = "=0.10.66", features = ["vendored"] }  # CI fails for Windows without this
+napi = { version = "2.16.9", default-features = false, features = ["napi4"] }
+napi-derive = "2.16.11"
 
 [build-dependencies]
 napi-build = "2.0.1"
