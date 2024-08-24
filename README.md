@@ -1,6 +1,6 @@
 <div align="center">
   <h1><a href="https://crates.io/crates/bm42">BM42-js ⚡️</a></h1>
- <h3>Typescript/NodeJS implementation of <a href="https://qdrant.tech/articles/bm42/" target="_blank">Qdrant BM42</a></h3>
+ <h3>Typescript/NodeJS implementation of <a href="https://qdrant.tech/articles/bm42/" target="_blank">Qdrant BM42!</a></h3>
   <a href="https://www.npmjs.com/package/bm42"><img src="https://img.shields.io/npm/v/bm42.svg" alt="npmjs.org"></a>
   <a href="https://github.com/Anush008/bm42-js/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-apache-blue.svg" alt="Apache Licensed"></a>
 </div>
